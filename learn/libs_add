@@ -1,0 +1,19 @@
+9731284    commons-collections4-4.1.jar              LRUMap维护一个分页
+
+8635b74    armeabi    libhci_cur.so                  初步实现文本朗读功能
+                      libhci_sys.so
+                      libhci_sys_jni.so
+                      libhci_tts.so
+                      libhci_tts_cloud_synth.so
+                      libhci_tts_jni.so
+
+             hcicloud-5.0.jar
+             hcicloud_player-5.0.jar
+
+4b49508      mta-sdk-1.6.2.jar                        接入QQ第三方登录
+             open_sdk_r5756_lite.jar
+
+95816d9      libjtopus.so                             文章朗读功能
+
+c13fe19      epublib-core-latest.jar                  1.EPub 阅读器初步
+             slf4j-android-1.5.8.jar
